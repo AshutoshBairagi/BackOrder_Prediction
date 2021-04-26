@@ -20,4 +20,13 @@ You can find the Data Description, Data Validation, Data Insertion in Database, 
    You will get two option, one is DEFAULT FILE PREDICTION, in this batches of files is already given in the code
    
    And another option is CUSTOM FILE PREDICTION, in this create a folder in your local system and keep the csv files in that and enter the folder file in CUSTOM FILE PRECTION.
+   
+   
+   This work is not totally done by me, although I changed some code in order to run this project and understand the flow of this project, so credit goes to 
+   
+   iNeuron.ai
+   
+   Address: 1st Floor, Swamy Towers, Outer Ring Rd, next to Ezone Club, Marathahalli, Bengaluru, Karnataka 560037
+
+   Phone: 091760 72251
   
