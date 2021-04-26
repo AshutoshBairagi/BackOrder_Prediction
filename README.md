@@ -5,13 +5,13 @@ A backorder is the order which could not be fulfilled by the company. Due to hig
 
 You can find the Data Description, Data Validation, Data Insertion in Database, Model Training, Prediction Data Description and Prediction steps in 
 
-     # Problem Statement.docx
+      Problem Statement.docx
   # How to run this code
   First create an environment python==3.6.9 in pycharm
   
   After that install the required libraries, in order to do that open your terminal in pycharm and enter this command
   
-    # pip install -r requirements.txt
+     pip install -r requirements.txt
   
   And run the Application.py file and you will get the link of UI and you can see the prediction page
     
